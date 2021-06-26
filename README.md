@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinav-Abster
-- 👀 I’m interested in Anime and Gaming
+- 👀 I’m interested in Anime, Gaming adnd Coding
 - 🌱 I’m currently learning coding and normal education
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... abhinavricky02@gmail.com
