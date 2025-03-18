@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-rana-98a62b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abster2315)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abster2310)
 
 ---
 ⭐️ *Feel free to explore my repositories and contribute!*
