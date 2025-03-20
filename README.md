@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for building awesome projects. 🚀
 
 ### 🔥 About Me
-- 💻 **Tech Enthusiast**: I enjoy working on computers...be it anything.
+- 💻 **Tech Enthusiast**: I enjoy learning about computers...be it anything.
 - 🎨 **Frontend & UI/UX**: Exploring ways to make user experiences seamless and beautiful.
 - 🌐 **Currently Learning**: Improving my Flask backend and styling skills.
 - 🏆 **Hackathon Participant**: Recently worked on a book summarizer project.
